@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azzl5
+- 👋 Hi, I’m zl
 - 🌱 I’m currently learning front-end and R
 - 📫 reach me :sulingworks@gmail.com
 
